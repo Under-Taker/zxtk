@@ -1,0 +1,77 @@
+<div class="m-index">
+
+		
+	<div>
+	<header>
+		<div>装修案例</div>
+	</header>
+	
+	<nav>
+		<ul>
+			<li class="yo-ico">风格&#xe629;</li>
+			<li class="yo-ico">户型&#xe629;</li>
+			<li class="yo-ico">造价&#xe629;</li>
+		</ul>
+	</nav>
+	
+	<section id="index-scroll" spa-widget="scroll" data-scroll-id="indexScroll">
+		<div class="swiper-container" id="index-swiper">
+		<ul>
+			<li>
+				<i><img src="/zxtk/images/IMG_1079.JPG"/></i>
+				<p>避风避雨的中式港湾</p>
+				<b>#四居室#中式</b>
+			</li>
+			<li>
+				<i><img src="/zxtk/images/IMG_1080.JPG"/></i>
+				<p>避风避雨的中式港湾</p>
+				<b>#四居室#中式</b>
+			</li>
+			<li>
+				<i><img src="/zxtk/images/IMG_1081.JPG"/></i>
+				<p>避风避雨的中式港湾</p>
+				<b>#四居室#中式</b>
+			</li>
+			<li>
+				<i><img src="/zxtk/images/IMG_1082.JPG"/></i>
+				<p>避风避雨的中式港湾</p>
+				<b>#四居室#中式</b>
+			</li>
+			<li>
+				<i><img src="/zxtk/images/IMG_1083.JPG"/></i>
+				<p>避风避雨的中式港湾</p>
+				<b>#四居室#中式</b>
+			</li>
+			<li>
+				<i><img src="/zxtk/images/IMG_1084.JPG"/></i>
+				<p>避风避雨的中式港湾</p>
+				<b>#四居室#中式</b>
+			</li>
+		</ul>
+		</div>
+	</section>
+	
+	</div>	
+
+	
+	<footer>
+		<ul>
+			<li class="active">
+				<i class="yo-ico">&#xe630;</i>
+				<b>首页</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe7d5;</i>
+				<b>灵感</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe600;</i>
+				<b>服务</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe637;</i>
+				<b>我的</b>
+			</li>
+		</ul>
+	</footer>
+</div>
